@@ -1,6 +1,6 @@
 # problem-solving-2021
 
-Push Competitive Programming and Problem Solving solution from various platforms.
+Contribute with Competitive Programming and Problem Solving solution from various platforms.
 
 Platforms can be from one of the following:
 - Codeforces
